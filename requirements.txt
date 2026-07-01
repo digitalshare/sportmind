@@ -1,0 +1,5 @@
+runpod-flash
+# client/dashboard side (worker deps are declared in @Endpoint, not here)
+openai
+requests
+streamlit
